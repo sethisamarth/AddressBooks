@@ -15,7 +15,6 @@ namespace AddressBooks
     }
     public class AddrBook : IAddressBookSystem
     {
-        
         public List<AddrBook> people;
         public AddrBook()
         {
