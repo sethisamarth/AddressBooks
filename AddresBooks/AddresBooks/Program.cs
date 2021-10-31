@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace AddresBooks
+namespace AddressBooks
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to address book!");
+
+            AddressBooks.AddrBook.GetCustomer();
+            AddressBooks.AddrBook.ListingPeople();
         }
     }
 }

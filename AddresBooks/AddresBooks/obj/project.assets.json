@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Address Book  Application\\AddresBooks\\AddresBooks\\AddresBooks.csproj",
-      "projectName": "AddresBooks",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Address Book  Application\\AddresBooks\\AddresBooks\\AddresBooks.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Address Book  Application\\AddresBooks\\AddresBooks\\AddressBooks.csproj",
+      "projectName": "AddressBooks",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Address Book  Application\\AddresBooks\\AddresBooks\\AddressBooks.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\Desktop\\Address Book  Application\\AddresBooks\\AddresBooks\\obj\\",
       "projectStyle": "PackageReference",

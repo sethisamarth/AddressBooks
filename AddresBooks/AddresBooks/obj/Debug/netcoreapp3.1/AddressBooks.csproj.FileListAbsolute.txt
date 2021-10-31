@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\bin\Debug\netcoreapp3.1\AddressBooks.exe
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\bin\Debug\netcoreapp3.1\AddressBooks.deps.json
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\bin\Debug\netcoreapp3.1\AddressBooks.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\bin\Debug\netcoreapp3.1\AddressBooks.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\bin\Debug\netcoreapp3.1\AddressBooks.dll
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\bin\Debug\netcoreapp3.1\AddressBooks.pdb
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.dll
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.pdb
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.genruntimeconfig.cache
