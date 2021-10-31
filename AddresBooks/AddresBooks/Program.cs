@@ -8,6 +8,7 @@ namespace AddressBooks
         {
             Console.WriteLine("Welcome To Address Book System!");
             AddrBook.GetCustomer();
+            AddressBooks.AddrBook.Modify();
             AddrBook.ListingPeople();
         }
     }

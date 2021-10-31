@@ -11,3 +11,4 @@ C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\De
 C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.dll
 C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.pdb
 C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Address Book  Application\AddresBooks\AddresBooks\obj\Debug\netcoreapp3.1\AddressBooks.csproj.AssemblyReference.cache
