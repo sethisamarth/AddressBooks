@@ -6,7 +6,7 @@ namespace AddressBooks
     {
         static void Main(string[] args)
         {
-
+            AddrBook ad = new AddrBook();
 
             Console.WriteLine("Welcome To Address Book System!");
             Console.WriteLine("1.Enter to add the details");
@@ -17,7 +17,7 @@ namespace AddressBooks
             switch (Console.ReadLine())
             {
                 case "1":
-                    AddressBooks.AddrBook.GetCustomer();
+                   ad.GetCustomer();
                     AddressBooks.AddrBook.ListingPeople();
                     break;
                 case "2":
